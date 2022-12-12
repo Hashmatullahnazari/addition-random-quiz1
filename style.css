@@ -6,7 +6,8 @@
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-    
+      width: 50%;
+      box-sizing: border-box;
 }
 
 
@@ -24,7 +25,7 @@ input[type=text], input[type=password] {
   margin: 8px 0;
   display: inline-block;
   border: 1px solid #ccc;
-  box-sizing: border-box;
+
 }
 
 /* Set a style for all buttons */
