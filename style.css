@@ -42,7 +42,7 @@ button {
 /* Change styles for span and cancel button on extra small screens */
 @media screen and (max-width: 500px) {
   .container{
-      width: 100%;
+      width: 50%;
     display: block;
     float: none;
   }
